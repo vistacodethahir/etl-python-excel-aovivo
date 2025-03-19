@@ -2,6 +2,7 @@
 import pandas as pd
 
 # pandas profile (ydata_profiling)
+
 from ydata_profiling import ProfileReport
 
 df = pd.read_csv('data.csv')
